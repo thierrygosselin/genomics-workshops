@@ -2,17 +2,15 @@
 
 ## Workshop program [pdf](https://www.dropbox.com/s/7lq1qc33fxrsq3g/R%20workshop%20Program%20Final.pdf?dl=0)
 
-## Use this platform to :
+## Datasets and tutorials:
 
-* Ask questions outside talks or to get more info on a topic
-* Exchange ideas: [see the wikipedia section](https://github.com/thierrygosselin/genomics-workshops/wiki)
-* Access [datasets](https://github.com/thierrygosselin/genomics-workshops/blob/master/data/README.md) and [tutorials](https://github.com/thierrygosselin/genomics-workshops/blob/master/tutorials/tutorials.md)
+* Datasets and tutorials are now in the shared dropbox folder.
 
 ## Using GitHub
 
 GitHub can be intimidating at first, but it's worth the initial effort:
 
-* [Get started with github](https://github.com/thierrygosselin/genomics-workshops/blob/master/tutorials/workshop_general/github_tutorial.md)
+* [Get started with github](https://www.dropbox.com/s/71pigl9b4x01egt/github_tutorial.md?dl=0)
 * [Happy Git and GitHub for the useR](https://happygitwithr.com) by Jenny Bryan and Jim Hester
 
 
