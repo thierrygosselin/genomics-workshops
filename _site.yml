@@ -1,0 +1,8 @@
+name: "genomics-workshops"
+navbar:
+  title: "genomics-workshops"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
